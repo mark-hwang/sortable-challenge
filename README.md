@@ -4,8 +4,9 @@ sortable challenge :
 -  using gason json parser
 
 ## Test
-1. Download
-2. make
-3. ./arrange products.txt listings.txt result.txt
+1. git clone https://github.com/mark-hwang/sortable-challenge.git
+2. cd sortable-challenge
+3. make
+4. ./arrange products.txt listings.txt result.txt
 
 
